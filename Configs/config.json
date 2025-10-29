@@ -12,6 +12,5 @@
   "BinanceApiUrl": "https://api.binance.com",
   "BinanceCoinMarginedApiUrl": "https://dapi.binance.com",
   "BinanceUsdtMarginedApiUrl": "https://fapi.binance.com",
-  "update":"dzb",
-  "update2": "zdl222"
+  "update":""
 }
